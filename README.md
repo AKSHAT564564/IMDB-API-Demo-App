@@ -2,7 +2,7 @@
 
 Rapid-Api : IMDB APi Demo app
 
-Saerch Movies/webseries(Aearch Bar Control)
+Saerch Movies/webseries(search Bar Control)
 
 <li><img src="app_walkthrough/home.jpeg" width="200" height="400">
 <img src="app_walkthrough/search.jpeg" width="200" height="400">
